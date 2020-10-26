@@ -1,0 +1,66 @@
+@media (max-width: 992px){
+    body{
+        overflow-x: scroll;
+        z-index: 1;
+    }
+    .center_content {
+        margin-left: 48% !important;
+    }
+    /* .create_post .friend_requests{
+        display: inline-flex !important;
+    } */
+    .sidebar{
+        transform: translateX(50%);
+    }
+    .profile_nav {
+        position: relative !important;
+        z-index: 1;
+    }
+    .profile_nav ul li{
+        width: 37vw;
+    }
+    .profile_nav ul li a{
+        font-size: .85rem !important;
+    }
+    .navbar form .input-group {
+        left: -200px !important;
+        top: -3px !important;
+    }
+    .navbar .navbar-brand {
+        margin-left: .5em !important;
+        /* margin-top: -160px !important; */
+    }
+    .navbar li:nth-child(2) a,
+    .navbar li:nth-child(3) a,
+    .navbar li:nth-child(4) a,
+    .navbar li:nth-child(5) a,
+    .navbar li:nth-child(6){
+        font-size: .7rem !important;
+        display: none;
+    }
+    .navbar li:nth-child(2) {
+        padding-left: .4em !important;
+    }
+    .navbar li:nth-child(2),
+    .navbar li:nth-child(3),
+    .navbar li:nth-child(4),
+    .navbar li:nth-child(5){
+        display: inline-flex !important;
+    }
+    .col-md-8 .row{
+        display: grid;
+        grid-template-columns: 50% 100%;
+    }
+    .side_notif{
+        margin-left: 80%;
+        display: none !important;
+    }
+    .friend_req_list ul {
+        width: 200px !important;
+    }
+}
+@media (max-width: 1260px){
+    #right_side_bar{
+        display: none;
+    }
+}
