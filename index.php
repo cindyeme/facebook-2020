@@ -107,8 +107,8 @@
                             <li class="nav-item">
                                 <a href="#" class="nav-link clearfix">
                                     <i class="icon-ondemand_video"></i>
-                                    <span class="nav-text " title="Watch">Watch
-                                    <span class="badge">2</span>
+                                    <span class="nav-text " title="Watch">Watch                <i class="fa fa-circle text-danger float-right watch mt-2"></i> 
+
                                     </span>
                                 </a>
                             </li>
@@ -517,7 +517,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/cat-post-2.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Okoli Praise
-                                    <span class="badge online mt-2">2</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -525,7 +525,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/darkkeys.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Ahmed Obinna
-                                    <span class="badge online mt-2">2</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -533,7 +533,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/agent-1.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Amalemba Ami
-                                    <span class="badge mt-2 online">2</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -541,7 +541,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/agent-5.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Ike chukwu
-                                    <span class="badge mt-2 online">2</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -549,7 +549,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/agent-6.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Hon Victor
-                                    <span class="badge mt-2 online">1</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -557,7 +557,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/agent-7.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Joy Eniokoh
-                                    <span class="badge mt-2 online">1</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -565,7 +565,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/banner.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Ahizih Ifeanyi
-                                    <span class="badge online mt-2">2</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -573,7 +573,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/code1.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Andyson Andrew 
-                                    <span class="badge online mt-2">2</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -581,7 +581,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/user6.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Emma Nuela
-                                    <span class="badge mt-2 online">1</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -589,7 +589,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/user2.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Gerald Gate
-                                    <span class="badge mt-2 online">1</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -597,7 +597,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/user1.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Rebecca Rina
-                                    <span class="badge mt-2 online">1</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>
@@ -605,7 +605,7 @@
                             <a href="#" class="nav-link clearfix">
                                 <img src="assets/img/user0.jpg" alt="profile_pic">
                                 <span class="nav-text clearfix">Don Chess
-                                    <span class="badge mt-2 online">1</span>
+                                    <i class="fa fa-circle text-success online"></i> 
                                 </span>
                             </a>
                         </li>

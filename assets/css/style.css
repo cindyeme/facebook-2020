@@ -158,6 +158,9 @@ input::placeholder{
     clear: right;
     padding: 0;
 }
+.sidebar .nav-text .watch{
+    font-size: .5rem !important;
+}
 .sidebar .nav-item .edit{
     font-size: .85rem !important;
     font-weight: 400 !important;
@@ -391,11 +394,9 @@ input::placeholder{
 }
 .contact_sec .nav .online {
     float: right;
-    background: rgb(5, 189, 5);
-    border-radius: 50%;
     font-size: .1rem;
-    color: rgb(5, 189, 5);
     border: 0;
+    margin-top: .8rem;
     margin-right: .5rem;
 }
 .contact_sec .nav .nav-title{
