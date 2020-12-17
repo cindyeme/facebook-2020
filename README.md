@@ -1,2 +1,2 @@
 # facebook-home-page
-A class project.
+Facebook web homepage built with html, css and bootstrap.
